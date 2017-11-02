@@ -20,7 +20,7 @@ Things you need to install
 
 ### Installing
 
-No need to install
+No need to install, because python is interpreter
 
 ---
 
