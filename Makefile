@@ -1,4 +1,4 @@
 all:
 
 run:
-	python cidr.py
+	python src/cidr.py
