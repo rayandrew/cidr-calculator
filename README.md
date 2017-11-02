@@ -60,7 +60,7 @@ Hasil binary yaitu B1 dan B2 disamakan
 
 ## Authors
 
-* **Ray Andrew** - [Ray Andrew](https://github.com/rayandrews)
+* [Ray Andrew](https://github.com/rayandrews)
 
 ## LICENSE
 Do whatever you want dude, this is open, feel free to use!
