@@ -32,7 +32,7 @@ def countHosts(subnet):
 		return str(2 >> 1)
 
 def isSubnetValid(subnet, host):
-	subnetPart = subnet.split('/');
+	subnetPart = subnet.split('/')
 	subnetBinary = long(ipToInteger(subnetPart[0]))
 	mask = long(subnetPart[1])
 	subnetMask = ''
